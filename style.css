@@ -1,0 +1,16 @@
+.satauri1{
+    color: #FF0000;
+}
+.list{
+    color: #5F5F5F;
+    margin-left: 60px;
+}
+.image{
+    background-image: url(img.png);
+    width: 186px;
+    height: 109px;
+    margin-left: 60px;
+}
+.text{
+    color: #5B5B5B;
+}
